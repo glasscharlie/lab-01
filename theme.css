@@ -1,0 +1,75 @@
+@media screen and (max-width: 768px) {
+    p:nth-of-type(1) {
+    background-color: red;
+    }
+    p:nth-of-type(2) {
+    background-color: green;
+    }
+    p:nth-of-type(3) {
+    background-color: orange;
+    }
+    p:nth-of-type(4) {
+    background-color: pink;
+    
+    }
+    p:nth-of-type(5) {
+        background-color: yellow;
+    }
+    p:nth-of-type(6) {
+    background-color: salmon;
+    
+    }
+    p:nth-of-type(7) {
+    background-color: blue;
+    
+    }
+    p:nth-of-type(8) {
+   background-color: cornflowerblue;
+    
+    
+    }
+    p:nth-of-type(9) {
+        background-color: olivedrab;
+    }
+    }
+    
+    @media screen and (min-width: 768px) {
+        p:nth-of-type(1) {
+            background-color: burlywood;
+            }
+            p:nth-of-type(2) {
+            background-color: chartreuse;
+            }
+            p:nth-of-type(3) {
+            background-color: thistle;
+            }
+            p:nth-of-type(4) {
+            background-color: peachpuff;
+            
+            }
+            p:nth-of-type(5) {
+            background-color: saddlebrown;
+            
+            
+            
+            }
+            p:nth-of-type(6) {
+            background-color: peru;
+            
+            
+            }
+            p:nth-of-type(7) {
+            background-color: papayawhip;
+            
+            
+            }
+            p:nth-of-type(8) {
+            background-color: olivedrab;
+            
+            
+            }
+            p:nth-of-type(9) {
+            background-color: lemonchiffon;
+            }
+    
+    }
